@@ -24,3 +24,8 @@ data = [
   {id:"2", name:"George"},
   {id:"ZZ", name:"Chase"}
 ] 
+
+def move_zz(data)
+end
+
+sorted_data = data.move_zz{ |entry| entry['id']}
