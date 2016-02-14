@@ -16,3 +16,9 @@ end
 
 print b
 
+data = [
+  {id:"30", name:"Dave"},
+  {id:"57", name:"Mike"},
+  {id:"9", name:"Kevin"},
+  {id:"1", name:"Steve"}
+] 
